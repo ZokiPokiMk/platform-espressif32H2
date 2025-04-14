@@ -18,6 +18,7 @@
     ]
   },
   "connectivity": [
+    "zigbee",
     "wifi"
   ],
   "debug": {
